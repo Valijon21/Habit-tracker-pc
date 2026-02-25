@@ -1,0 +1,11 @@
+tracker_data.json
+tracker_errors.log
+env/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+build/
+dist/
+*.spec
