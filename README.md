@@ -65,5 +65,8 @@ Ochiq manbali loyiha sifatida dasturchilar yordamini doim qadrlarimiz. Agar arxi
 4. Branch ni "Push" qiling (`git push origin feature/YangiImkoniyat`)
 5. Pull Request yuboring!
 
+## 👨‍💻 Muallif (Author)
+- **Dasturchi:** Valijon Ergashev
+
 ## 📜 Litsenziya (License)
 Bu loyiha MIT Litsenziyasi ostida tarqatiladi - batafsil ma'lumot uchun LICENSE faylini ko'ring (erkin foydalanish huquqi).

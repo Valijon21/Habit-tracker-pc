@@ -272,6 +272,12 @@ class TrackerApp(ctk.CTk):
             text_color=self.theme.get("text")
         ).pack(anchor="w", pady=(2, 0))
 
+        ctk.CTkLabel(
+            left, text="👨‍💻 Dasturchi: Valijon Ergashev | 📞 Tel: +998 77 342 33 21",
+            font=("Helvetica", 14, "italic"),
+            text_color=self.theme.get("text")
+        ).pack(anchor="w", pady=(2, 0))
+
         # Right side: Buttons
         btn_frame = ctk.CTkFrame(header, fg_color="transparent")
         btn_frame.pack(side="right")
